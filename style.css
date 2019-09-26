@@ -3,9 +3,9 @@
 /*-----------------------------------------------------------------
 CSS settings for HTML Div form1 (Dynamically Created using jQuery)
 ------------------------------------------------------------------*/
-div#form1{
-width:250px;
-height:430px;
+#form{
+width:270px;
+height:484px;
 border:2px solid #a5a5a5;
 padding:20px;
 background-color:#f3f3f3;

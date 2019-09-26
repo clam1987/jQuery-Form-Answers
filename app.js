@@ -6,11 +6,7 @@ $(document).ready(function() {
     $("<h1/>").text("Contact Form"),
     $("<p/>").text("Form Exercise Answers"),
     //Create <form> tag and append to form
-    $("<form/>", {
-      //In place for Ajax calls * Do not worry about this for now.  
-      action: "#",
-      method: "#"
-    }).append(
+    $("<form/>").append(
       //Creating Input Element and its Attributes
       //To do this create an object of the element
       $("<input/>", {

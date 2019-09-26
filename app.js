@@ -7,7 +7,7 @@ $(document).ready(function() {
     $("<p/>").text("Form Exercise Answers"),
     //Create <form> tag and append to form
     $("<form/>", {
-      //In place for Ajax calls * Do not worry about this now.  
+      //In place for Ajax calls * Do not worry about this for now.  
       action: "#",
       method: "#"
     }).append(
@@ -60,3 +60,5 @@ $(document).ready(function() {
     )
   );
 });
+
+//To Do: Impose conditions on elements
